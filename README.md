@@ -89,5 +89,9 @@ Want to add even more code and fun styles to your GitHub Pages website? [Follow 
 
 Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
 
+<<<<<<< HEAD
 ##
 test pull
+=======
+## First change by git
+>>>>>>> fbdae38e4718216326d9a9873decd53d26952788
